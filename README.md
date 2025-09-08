@@ -1,2 +1,3 @@
 # Currency-Converter
-Currency Converter Tool using Python Code
+Currency Converter Tool made using Python code in IDLE
+
